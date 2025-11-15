@@ -1,0 +1,9 @@
+navbar .container{
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: #ffffff;
+}
+.navbar-nav ms-auto{
+    justify-content: space-between;
+}
